@@ -84,7 +84,7 @@ This project is licensed under the [MIT license](LICENSE).
 
 ```kotlin
 dependencies {
-    implementation("io.github.kotlinmania:axum-server-kotlin:0.1.0")
+    implementation("io.github.kotlinmania:axum-server-kotlin:0.1.2")
 }
 ```
 
